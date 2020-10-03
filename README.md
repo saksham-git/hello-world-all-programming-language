@@ -27,6 +27,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### D.
 * DART
 ### E.
+* EMBEDDED C
 ### F.
 ### G.
 * GO
